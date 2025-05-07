@@ -22,6 +22,3 @@ Bienvenido al índice de la documentación y el código fuente de este proyecto.
     *   **Código Fuente:** Archivo Python que implementa la versión primitiva.
         *   [prueba_2.py](CDLL_primitivo/Incisos/prueba_2.py): Implementación completa y aplicación de consola para la versión primitiva extrema.
 
-*(Nota sobre la estructura: La organización en subdirectorios `Incisos` y la posible duplicación de archivos como `Caso_de_uso.md`, `LICENSE` y `README.md` dentro de `CDLL_primitivo/Incisos` reflejan la estructura del repositorio observado. Los enlaces en este índice apuntan a las ubicaciones específicas de los archivos dentro de la estructura mostrada.)*
-
----
