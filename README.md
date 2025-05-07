@@ -7,7 +7,7 @@ Bienvenido al índice de la documentación y el código fuente de este proyecto.
     *   [Información de Licencia](LICENSE): Detalles sobre la licencia bajo la cual se distribuye el código.
 
 *   **Parte 1: Implementación con Lista Doblemente Enlazada Circular (CDLL):**
-    *   [CDLL_normal](CDLL_normal/Incisos/Explicacion.md): Explicación general sobre esta sección del proyecto.
+    *   [CDLL_normal](CDLL_normal/Incisos): Explicación general sobre esta sección del proyecto.
     *   **Código Fuente:** Archivos Python que implementan la versión CDLL.
         *   [CDLLB.py](CDLL_normal/Incisos/CDLLB.py): Implementación base de la estructura CDLL y el Nodo.
         *   [operations.py](CDLL_normal/Incisos/operations.py): Funciones que definen las operaciones sobre la CDLL (mover, mostrar, listar).
