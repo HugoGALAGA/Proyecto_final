@@ -2,6 +2,9 @@
 
 Bienvenido al índice de la documentación y el código fuente de este proyecto. Utiliza esta lista para navegar por los diferentes componentes y explicaciones.
 
+*   **Anteproyecto** Documento donde se encuentra las definiciones previas del proyecto.
+    *   [Anteproyecto](Anteproyecto/Anteproyecto.pdf) Documento que contiene los parametros.
+       
 *   **General del Proyecto:** Documentación que aplica a ambas partes del proyecto.
     *   [Caso de Uso del Proyecto](Caso_de_uso.md): Descripción de la aplicación "Selector Cíclico" y la justificación de por qué se eligió la CDLL.
     *   [Información de Licencia](LICENSE): Detalles sobre la licencia bajo la cual se distribuye el código.
