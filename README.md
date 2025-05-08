@@ -2,6 +2,9 @@
 
 Bienvenido al índice de la documentación y el código fuente de este proyecto. Utiliza esta lista para navegar por los diferentes componentes y explicaciones.
 
+*   **Como ejecutarlo**
+    *   [Guia](como_ejecutarlo.md)
+
 *   **Anteproyecto** Documento donde se encuentra las definiciones previas del proyecto.
     *   [Anteproyecto](Anteproyecto/Anteproyecto.pdf) Documento que contiene los parametros.
        
