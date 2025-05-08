@@ -32,5 +32,5 @@ Bienvenido al índice de la documentación y el código fuente de este proyecto.
     * [Ejemplificacion de la esrutura](Estructura)
 
 *   **Presentación**
-    *   [PDF]
+    *   [PDF](https://www.canva.com/design/DAGmxVcjARA/aU_XXA9uvi2ACHwtzcjEXQ/edit?utm_content=DAGmxVcjARA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
