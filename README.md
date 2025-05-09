@@ -3,7 +3,7 @@
 Bienvenido al índice de la documentación y el código fuente de este proyecto. Utiliza esta lista para navegar por los diferentes componentes y explicaciones.
 
 *   **Como ejecutarlo**
-    *   [Guia](como_ejecutarlo.md)
+    *   [Guia](como_ejecutarlo.md) Documento que da paso a paso las instrucciones para clonar el repo.
 
 *   **Anteproyecto** Documento donde se encuentra las definiciones previas del proyecto.
     *   [Anteproyecto](Anteproyecto/Anteproyecto.pdf) Documento que contiene los parametros.
@@ -29,8 +29,8 @@ Bienvenido al índice de la documentación y el código fuente de este proyecto.
         *   [prueba_2.py](CDLL_primitivo/Incisos/prueba_2.py): Implementación completa y aplicación de consola para la versión primitiva extrema.
      
 *   **Estructura**
-    * [Ejemplificacion de la esrutura](Estructura)
+    * [Ejemplificacion de la esrutura](Estructura) Notas donde se bosqueja los diagramas de la estructura del proyecto.
 
 *   **Presentación**
-    *   [Link a la presentacion](https://www.canva.com/design/DAGmxVcjARA/aU_XXA9uvi2ACHwtzcjEXQ/edit?utm_content=DAGmxVcjARA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+    *   [Link a la presentacion](https://www.canva.com/design/DAGmxVcjARA/aU_XXA9uvi2ACHwtzcjEXQ/edit?utm_content=DAGmxVcjARA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) Enlace a la presentacion en la que se expondra los datos del proyecto.
 
